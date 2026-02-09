@@ -95,8 +95,9 @@
   width: 20px;
   height: 200px;
 }
-.overlay3{
-   position: absolute;
+
+.overlay3 {
+  position: absolute;
   top: 450px;
   left: 250px;
   border-radius: 10px;
@@ -104,17 +105,26 @@
   width: 200px;
   object-fit: contain;
 }
+
 .livvic-bold {
   font-family: "Livvic", sans-serif;
   font-weight: 700;
   font-style: Bold;
 }
+
 .livvic-bold-medium {
   font-family: "Livvic", sans-serif;
   font-weight: 500;
   font-style: Bold;
 }
-.line-break{
+
+.line-break {
   line-break: auto;
   line-height: 27px;
+}
+.gallery-card-img{
+  height: 306px;
+  width: 306px;
+  border-radius: 10px;
+  outline: 2px dashed #616B1A;
 }
